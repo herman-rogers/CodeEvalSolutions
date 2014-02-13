@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UglyNumbers", "UglyNumbers\UglyNumbers.vcxproj", "{F252FE87-454D-414F-963B-F204D89FB93F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UglyNumbers", "UglyNumbers\UglyNumbers.vcxproj", "{9B5F41CF-FD85-4336-B38C-0DCC5D54B54C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F252FE87-454D-414F-963B-F204D89FB93F}.Debug|Win32.ActiveCfg = Debug|Win32
-		{F252FE87-454D-414F-963B-F204D89FB93F}.Debug|Win32.Build.0 = Debug|Win32
-		{F252FE87-454D-414F-963B-F204D89FB93F}.Release|Win32.ActiveCfg = Release|Win32
-		{F252FE87-454D-414F-963B-F204D89FB93F}.Release|Win32.Build.0 = Release|Win32
+		{9B5F41CF-FD85-4336-B38C-0DCC5D54B54C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9B5F41CF-FD85-4336-B38C-0DCC5D54B54C}.Debug|Win32.Build.0 = Debug|Win32
+		{9B5F41CF-FD85-4336-B38C-0DCC5D54B54C}.Release|Win32.ActiveCfg = Release|Win32
+		{9B5F41CF-FD85-4336-B38C-0DCC5D54B54C}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
